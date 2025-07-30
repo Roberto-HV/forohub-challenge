@@ -1,2 +1,2 @@
 # forohub-challenge
-Elaboracion de una API Rest para hacer uso del CRUD de un foro
+Elaboración de una API Rest para hacer uso del CRUD de un foro.
